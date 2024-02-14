@@ -1,6 +1,6 @@
-                                                                                        #CASE STUDY: HOW DOES A BIKE-SHARE NAVIGATE SPEEDY SUCESS
-                                                                                        #Data source: https://divvy-tripdata.s3.amazonaws.com/index.html
-                                                                                        #For the analysis, it was used Divvy_Trips_2019_Q1.csv and Divvy_Trips_2020_Q1.csv for comparison
+#CASE STUDY: HOW DOES A BIKE-SHARE NAVIGATE SPEEDY SUCESS
+#Data source: https://divvy-tripdata.s3.amazonaws.com/index.html
+#For the analysis, it was used Divvy_Trips_2019_Q1.csv and Divvy_Trips_2020_Q1.csv for comparison
 
 library(tidyverse)  #helps wrangle data
 # Use the conflicted package to manage conflicts
